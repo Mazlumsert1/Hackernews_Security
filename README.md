@@ -10,3 +10,13 @@ Another asset could be if someone gets access to your code, they could get an id
 
 
 
+| Negligible | Marginal |Critical |Catastrophic|
+| --- | --- | --- |
+| Certain | a |
+| Likely | b |
+| Possible | c |
+| Unlikely | d |
+| Rare | e |
+
+
+
