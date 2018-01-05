@@ -16,7 +16,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | Likely |  |  |  |  |
 | Possible |  |  | db hack |  |
 | Unlikely |  | Theft physically |  |  |
-| Rare |  |  |  |  |
+| Rare |  |  | Lightning strikes |  |
 
 
 
