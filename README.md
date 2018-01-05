@@ -16,7 +16,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | Likely | DDOS | phishing attack |  |  |
 | Possible |  |  | db hack |  |
 | Unlikely |  | Theft of hardware |  |  |
-| Rare |  |  | Lightning strikes |  |
+| Rare |  |  | Lightning strikes OR Fire |  |
 
 According to our **Risk Matrix** the worst thing that could happen to us is that if our DB is hacked, that could lead to that we would loose data.  
 
