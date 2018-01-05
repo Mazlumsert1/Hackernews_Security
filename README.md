@@ -13,10 +13,10 @@ Another asset could be if someone gets access to your code, they could get an id
 | Negligible | Marginal |Critical |Catastrophic|
 | --- | --- | --- | --- |
 | Certain |  |  |  |  |
-| Likely | DDOS | |  |  |
+| Likely | DDOS | phishing attack |  |  |
 | Possible |  |  | db hack |  |
-| Unlikely |  | Theft physically |  |  |
+| Unlikely |  | Theft of hardware |  |  |
 | Rare |  |  | Lightning strikes |  |
 
-
+According to our **Risk Matrix** the worst thing that could happen to us is that if our DB is hacked, that could lead to that we would loose data.  
 
