@@ -18,5 +18,5 @@ Another asset could be if someone gets access to your code, they could get an id
 | Unlikely |  | Theft of hardware |  |  |
 | Rare |  |  | Lightning strikes OR Fire |  |
 
-According to our **Risk Matrix** the worst thing that could happen to us is that if our DB is hacked, that could lead to that we would loose data.  
+According to our **Risk Matrix** the worst thing that could happen to us is that if our DB is hacked, that could lead to that we would loose data. Using our **Risk Matrix** we can also have an idea about what kind of threats, we could face in the future. 
 
