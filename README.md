@@ -5,7 +5,7 @@
     **1.2 Data asset:**
 The valuable assets that needs to be protected, could be our Database since we have confidental data and records of client information such as username and password. Here a back-up of your data could be a very good idea. 
     
-    **1.3 Software asset** 
+    **1.3 Software asset:** 
 Another asset could be if someone gets access to your code, they could get an idea of how code works and do some malicius stuff and find some vulnerabilities. Generely if an hacker has access to your application valnerabilities can be found easily. 
 
 **Risk Matrices**
@@ -13,7 +13,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | Negligible | Marginal |Critical |Catastrophic|
 | --- | --- | --- | --- |
 | Certain |  |  |  |  |
-| Likely |  |  |  |  |
+| Likely |  | DDOS |  |  |
 | Possible |  |  | db hack |  |
 | Unlikely |  | Theft physically |  |  |
 | Rare |  |  | Lightning strikes |  |
