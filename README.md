@@ -13,7 +13,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | Negligible | Marginal |Critical |Catastrophic|
 | --- | --- | --- | --- |
 | Certain |  |  |  |  |
-| Likely |  | DDOS |  |  |
+| Likely | DDOS | |  |  |
 | Possible |  |  | db hack |  |
 | Unlikely |  | Theft physically |  |  |
 | Rare |  |  | Lightning strikes |  |
