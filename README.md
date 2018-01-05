@@ -8,7 +8,10 @@ The definition of an **asset** is what we want to project, if an vulnerabillity 
 The valuable assets that needs to be protected, could be our Database since we have confidental data and records of client information such as username and password. Here a back-up of your data could be a very good idea. 
     
     **1.3 Software asset:** 
-Another asset could be if someone gets access to your code, they could get an idea of how code works and do some malicius stuff and find some vulnerabilities. Generely if an hacker has access to your application valnerabilities can be found easily. 
+Another asset could be if someone gets access to your code, they could get an idea of how code works and do some malicius stuff and find some vulnerabilities. Generely if an hacker has access to your application vulnerabilities can be found easily. 
+
+**Threats**
+Using our **Risk Matrix** we can also have an idea about what kind of **threats**, we could face in the near future. 
 
 
 **Risk Matrices**
@@ -22,7 +25,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | Rare |  |  | Lightning strikes OR Fire |  |
 
 According to our **Risk Matrix** the worst thing that could happen to us is that if our DB is hacked, that could lead to that we would loose data. 
-Using our **Risk Matrix** we can also have an idea about what kind of **threats**, we could face in the near future. 
+
 
 ## OWASP ZAP Sikkerhedstest
 
