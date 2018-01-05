@@ -8,7 +8,7 @@ The valuable assets that needs to be protected, could be our Database since we h
     **1.3 Software asset** 
 Another asset could be if someone gets access to your code, they could get an idea of how code works and do some malicius stuff and find some vulnerabilities. Generely if an hacker has access to your application valnerabilities can be found easily. 
 
-** Risk Matrices **
+**Risk Matrices**
 
 | Negligible | Marginal |Critical |Catastrophic|
 | --- | --- | --- | --- |
