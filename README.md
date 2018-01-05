@@ -43,3 +43,4 @@ OWASP gør os opmærksom på at vores web browser XSS beskyttelse ikke er aktive
 
 > ”Web Browser XSS Protection is not enabled, or is disabled by the configuration of the X-XSS-Protection http response header on the web server” - OWASP ZAP
 
+Ifølge [OWASP TOP 10](https://www.owasp.org/index.php/Top_10-2017_Top_10) kan vi se at **nummer 7 er XSS angreb** hvilket også er et vulnerabilities vi fandt. Hvis vi dog havde lavet en mere grundig test, er vi sikker på at vi kunne finde mange andre vulnerabilities, som også indgår i OWASP Top 10 listen.     
