@@ -17,7 +17,7 @@ Another asset could be if someone gets access to your code, they could get an id
 | --- | --- | --- | --- |
 | Certain | Malware |  |  |  |
 | Likely | DOS | phishing attack |  |  |
-| Possible |  |  | db hack |  |
+| Possible | XSS |  | db hack |  |
 | Unlikely |  | Theft of hardware |  |  |
 | Rare |  |  | Lightning strikes OR Fire |  |
 
